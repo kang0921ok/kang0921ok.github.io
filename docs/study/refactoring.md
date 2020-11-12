@@ -3,7 +3,7 @@ layout: default
 title: Refactoring
 parent: Study
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 ## Refactoring

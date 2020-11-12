@@ -3,7 +3,7 @@ layout: default
 title: inflearn.com
 parent: Study
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 ## inflearn.com
