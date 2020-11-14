@@ -31,7 +31,7 @@ nav_order: 2
 - 2019.10 ~ 12 Payments Eventual Consistency System
 - 2019.01 ~ 06 [CrossBorder Payments System](http://m.ceoscoredaily.com/m/m_article.html?no=56753) (with LinePay)
 - 2018.09 ~ 11 [Octopus (personal project)](https://github.com/kang0921ok/octopus)
-   - Bronze award at 2018 OSS Developer Competition
+   - [Bronze award at 2018 OSS Developer Competition](https://www.oss.kr/dev_competition_activities/show/c768c7cc-cbbb-405c-a670-a2183fbd1afb?search_target=title&search_keyword=%EC%98%A5%ED%86%A0%ED%8D%BC%EC%8A%A4)
 - 2018.09 ~ 11 NaverPay Data Serving System (using Kafka)
 - 2018 [Campus Hackday Mentor](https://d2.naver.com/news/5277651) (Summer, Winter)
 - 2017.06 ~ 12 [NaverPay Javascript SDK](https://d2.naver.com/helloworld/2351859)
