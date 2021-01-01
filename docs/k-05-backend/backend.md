@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Backend
-nav_order: 4
+nav_order: 5
 has_children: true
 permalink: /docs/backend
 ---
 
 ## Backend
-> Backend 내용을 공유합니다.
+Backend 기술 공유 및 학습 정리

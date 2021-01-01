@@ -7,6 +7,6 @@ nav_order: 1
 ---
 
 ## inflearn.com
-> 동영상 강의
+동영상 강의
 - [더 자바, 코드를 조작하는 다양한 방법](https://www.inflearn.com/course/the-java-code-manipulation/dashboard)
 - [더 자바, 애플리케이션을 테스트하는 다양한 방법](https://www.inflearn.com/course/the-java-application-test/dashboard)
