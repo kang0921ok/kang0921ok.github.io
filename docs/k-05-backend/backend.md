@@ -6,5 +6,5 @@ has_children: true
 permalink: /docs/backend
 ---
 
-## Backend
+# Backend
 Backend 기술 공유 및 학습 정리

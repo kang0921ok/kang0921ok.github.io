@@ -1,17 +1,28 @@
 ---
 layout: default
-title: aboutMe
+title: AboutMe
 nav_order: 2
+permalink: /docs/about-me
+---
+# AboutMe
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ---
 
-### Kang's Story
+## Kang's Story
 - <img width="200px" src="https://user-images.githubusercontent.com/5463687/98932918-5419eb80-2523-11eb-870c-b0744ee258de.png">
 - ShinHyun Kang
 - `What does not destroy me, makes me stronger.`
 - [linkedin](https://www.linkedin.com/in/shinhyun-kang-985a87126/)
 - [leetcode](https://leetcode.com/kang0921ok/)
 
-### Work Experience
+## Work Experience
 - 2019.11 ~ `NAVER FINANCIAL`
    - NaverPay Payments Team
    - Software Development Engineer
@@ -21,11 +32,11 @@ nav_order: 2
 - 2014.02 ~ 2015.10 `Samsung Software Membership` 
    - Software Development Engineer
    
-### Education   
+## Education   
 - 2009~2016 `Soongsil University` 
   - BE, Computer Science & Engineering 
   
-### Project & Activity
+## Project & Activity
 - 2020.05 ~ 11 [Offline Payments System](https://byline.network/2020/11/11099/)
 - 2020.03 ~ 06 Redesign Recurrent Payments Platform
 - 2019.10 ~ 12 Payments Eventual Consistency System
@@ -52,7 +63,7 @@ nav_order: 2
 - 2013.10 ~ 11 [Busking Planet](https://www.youtube.com/watch?v=U4xBpTjVFIs)
    - [TOP18 in 2013 Super App Korea](https://www.venturesquare.net/526603) 
    
-### Skills
+## Skills
 - BE
    - Java
    - Kotlin

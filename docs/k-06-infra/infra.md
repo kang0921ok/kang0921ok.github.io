@@ -6,8 +6,8 @@ has_children: false
 permalink: /docs/infra
 ---
 
-## Infra
-Infra 학습한 내용 및 경험을 공유 합니다.  
+# Infra
+Infra 기술 공유 및 학습 정리
 <div class="code-example" markdown="1">
 AWS
 {: .label .label-red }

@@ -6,4 +6,4 @@ grand_parent: Backend
 permalink: /docs/backend/spring-framework/spring-core
 ---
 
-## Spring Core
+# Spring Core
