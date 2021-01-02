@@ -16,7 +16,7 @@ permalink: /
 
 ---
 ## 2021년
-- 2021-01-01(금) [Gradle 정리]({{ site.baseurl }}{% link docs/k-05-backend/build-tool/gradle/gradle.md %})
+- 2021-01-01(금) [Gradle 작성]({{ site.baseurl }}{% link docs/k-05-build-tool/gradle/gradle.md %})
 
 ## 2020년
 - 2020-11-12(목) [AboutMe 작성]({{ site.baseurl }}{% link docs/about-me.md %})  

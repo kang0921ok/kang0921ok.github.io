@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Kotlin
-parent: Backend
+parent: Language
 has_children: false
-nav_order: 2
-permalink: /docs/backend/kotlin
+nav_order: 1
+permalink: /docs/language/kotlin
 ---
 
 # Kotlin
