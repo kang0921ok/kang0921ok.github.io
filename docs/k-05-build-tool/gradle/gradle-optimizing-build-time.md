@@ -23,7 +23,7 @@ permalink: /docs/build-tool/gradle/gradle-optimizing-build-time
 ## Easy improvements
 - 최신 Gradle, JVM버전 사용
 - [빌드 캐시](https://docs.gradle.org/nightly/userguide/build_cache.html)
-   - ```
+  - ```
     //gradle.properties 
     org.gradle.caching=true 
   ```
@@ -36,11 +36,11 @@ permalink: /docs/build-tool/gradle/gradle-optimizing-build-time
    - 증분 빌드를 크게 가속화 시키는 방법
    - 2020.5.29 [파일 시스템 감시 소개글](https://blog.gradle.org/introducing-file-system-watching)
       - 향후 해당 옵션은 default true가 될 수 있음을 밝힘
-      - ```
-        //gradle.properties 
-        //gradle 6.7이상
-        org.gradle.vfs.watch=true  
-      ```
+   - ```
+     //gradle.properties 
+     //gradle 6.7이상
+     org.gradle.vfs.watch=true  
+   ```
 - [데몬 힙 크기 조정](https://docs.gradle.org/nightly/userguide/performance.html#adjust_the_daemons_heap_size)
    - ```
      //gradle.properties
