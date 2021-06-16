@@ -86,9 +86,8 @@ permalink: /docs/about-me
    - Kafka
    - Druid
    - Metabase
-- FE(web)
-  - JavaScript
-  - ES6
+- FE
+  - JavaScript(ES6+)
   - webpack
   - HTML & CSS
 - Infrastructure as Code
