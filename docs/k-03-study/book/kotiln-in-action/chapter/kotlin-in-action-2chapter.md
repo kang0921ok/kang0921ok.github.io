@@ -300,7 +300,4 @@ permalink: /docs/study/kotlin-in-action/2chapter
         
             println(number) //exception발생 시 null 찍힘
       }
-      ```    
-
-         
-    
+      ```
