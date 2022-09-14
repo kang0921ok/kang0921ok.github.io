@@ -21,7 +21,7 @@ github_username:  kang0921ok
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kang0921ok.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github: [metadata]
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs # https://github.com/just-the-docs/just-the-docs
 
 # Theme settings
 # Color scheme currently only supports "dark" or nil (default)
