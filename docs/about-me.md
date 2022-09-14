@@ -59,7 +59,7 @@ permalink: /docs/about-me
 - BE, Computer Science & Engineering
 - 2013, 2014, 2015 Seoul Accord Outstanding Student
     - The city of Seoul selected students who liked development and had achievements.
-    - The university recommended me. I was selected and received a scholarship so I was able to go to CES 2015.
+    - The university recommended me. I was selected and received a scholarship, so I was able to go to CES 2015.
     - I wrote “Jewels of CES 2015 seen by students” and I contributed the article to Microsoft magazine in Korea.
 
 ## Project & Activity
