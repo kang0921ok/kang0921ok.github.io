@@ -188,5 +188,5 @@ permalink: /docs/about-me
 - Monitoring
 - Testing
 - RESTful API
-- Android Application (hobby)_
+- Android Application (hobby)
    
