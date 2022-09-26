@@ -22,7 +22,9 @@ permalink: /
 ## 2021년
 - 2021-06-27(일) [책 - Kotlin In Action Chapter2 정리]({{ site.baseurl }}{% link docs/k-03-study/book/kotlin-in-action/chapter/kotlin-in-action-2chapter.md %})
 - 2021-06-16(수) [책 - Kotlin In Action Chapter1 정리]({{ site.baseurl }}{% link docs/k-03-study/book/kotlin-in-action/chapter/kotlin-in-action-1chapter.md %}) 
-- 2021-01-01(금) [Gradle 작성]({{ site.baseurl }}{% link docs/k-05-build-tool/gradle/gradle.md %})
+- 2021-01-01(금) 
+   - [Gradle 이란?]({{ site.baseurl }}{% link docs/k-05-build-tool/gradle/gradle.md %})
+   - [Gradle 성능 최적화]({{ site.baseurl }}{% link docs/k-05-build-tool/gradle/gradle-optimizing-build-time.md %})
 
 ## 2020년
 - 2020-11-12(목) [AboutMe 작성]({{ site.baseurl }}{% link docs/about-me.md %})  
