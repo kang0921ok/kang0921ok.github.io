@@ -14,7 +14,7 @@ permalink: /docs/algorithm
 
 - 2pointer
 - 라빈 카프(rabin-karp) algorithm
-    - [https://leetcode.com/problems/implement-strstr](https://leetcode.com/problems/implement-strstr)
+    - [implement-strstr leetcode](https://leetcode.com/problems/implement-strstr)
 
 ## Math
 
@@ -29,4 +29,18 @@ permalink: /docs/algorithm
         - 핵심: N까지 체크하면되는데, 제곱근(Math.sqrt(N))까지만 체크하면 되는게 포인트
     - 남은 숫자들은 소수
     - [설명](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4)
-    - [https://leetcode.com/problems/count-primes](https://leetcode.com/problems/count-primes)
+    - [count-primes leetcode](https://leetcode.com/problems/count-primes)
+
+## Others
+- Hamming distance 
+   - 2개의 input을 비트 단위로 비교하여 다른 값 (문자가 될 수도 있음)
+     - e.g) 7 -> 1011, 5 -> 0101 
+     - 1011
+     - 0101
+     - 1~3번째 다르고 마지막은 같음, 즉 Hamming distance는 3개 (다른값)
+   - int일때 처리 아이디어
+     - input1 ^ input2 (XOR 처리)
+       - XOR => 같으면 0, 다르면 1
+     - Integer.bitCount(input1 ^ input2)
+       - 이진수 내 1의 개수를 카운트하여 리턴
+   - [Hamming-distance leetcode](https://leetcode.com/explore/interview/card/top-interview-questions-easy/99/others/762/)
