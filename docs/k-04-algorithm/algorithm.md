@@ -15,7 +15,15 @@ permalink: /docs/algorithm
 - 2pointer
 - 라빈 카프(rabin-karp) algorithm
     - [implement-strstr leetcode](https://leetcode.com/problems/implement-strstr)
-
+- LCS(longest common subsequence)
+    - [Longest Palindromic Substring leetcode](https://leetcode.com/explore/interview/card/top-interview-questions-medium/103/array-and-strings/780/)
+    - 두개의 string 중 가장 긴 공통된 substr 찾기
+       - 예) ab`cdefab`cd / dd`cdefab`ff
+    - 아이디어 : dp를 통해서 찾아 낼 수 있음
+       - 이중 for문을 통해 같은 문자를 찾고, 같은 문자가 발견되면 앞전 dp배열 결과에 + 1을 더함 
+       - `dp[i-1][j-1] + 1`
+       - dp배열 내 가장 큰 값은 가장 긴 공통된 substr의 length를 의미하고, index는 해당 마지막 문자의 index
+      
 ## Math
 
 - 에라토스테네스의 체
